@@ -3,8 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Local-only documentation source (HTML report - exported to PDF for submission)
-Microservices/Microservices_Containerization_Report.html
+# Local-only documentation source (HTML reports - exported to PDF for submission)
+*.html
 
 # C extensions
 *.so
